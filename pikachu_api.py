@@ -1,7 +1,5 @@
 import requests
 
-
-
 def test_pikachu_endpoint():
     url = "https://pokeapi.co/api/v2/pokemon/pikachu"
 
